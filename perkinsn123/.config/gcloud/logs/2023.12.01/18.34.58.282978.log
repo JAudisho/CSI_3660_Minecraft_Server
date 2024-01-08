@@ -1,0 +1,45 @@
+2023-12-01 18:34:58,284 DEBUG    root            Loaded Command Group: ['gcloud', 'version']
+2023-12-01 18:34:58,286 DEBUG    root            Running [gcloud.version] with arguments: []
+2023-12-01 18:34:58,292 DEBUG    root            Chosen display Format:flattened[no-pad,separator=" "]
+2023-12-01 18:34:58,292 INFO     root            Display format: "flattened[no-pad,separator=" "]"
+2023-12-01 18:34:58,293 INFO     ___FILE_ONLY___ Google Cloud SDK
+2023-12-01 18:34:58,293 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,293 INFO     ___FILE_ONLY___ 455.0.0
+
+2023-12-01 18:34:58,293 INFO     ___FILE_ONLY___ alpha
+2023-12-01 18:34:58,293 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,293 INFO     ___FILE_ONLY___ 2023.11.10
+
+2023-12-01 18:34:58,293 INFO     ___FILE_ONLY___ beta
+2023-12-01 18:34:58,293 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___ 2023.11.10
+
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___ bq
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___ 2.0.98
+
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___ bundled-python3-unix
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___ 3.11.6
+
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___ core
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___ 2023.11.10
+
+2023-12-01 18:34:58,294 INFO     ___FILE_ONLY___ gcloud-crc32c
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___ 1.0.0
+
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___ gsutil
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___ 5.27
+
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___ minikube
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___ 1.31.2
+
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___ skaffold
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___  
+2023-12-01 18:34:58,295 INFO     ___FILE_ONLY___ 2.9.0
+
+2023-12-01 18:34:58,296 DEBUG    root            SDK update checks are disabled.
