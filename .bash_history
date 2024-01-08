@@ -489,3 +489,77 @@ cd www
 ls
 cd html
 sudo nano about.php
+git init
+git remote add origin https://github.com/JAudisho/Minecraft-Server
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+cd
+git status
+cd ..
+git push -u origin master
+git config --global --add safe.directory /home
+cd /minecraftserver
+ls -l
+ls -i
+ls -l
+cd minecraftserver
+git push -u origin master
+git push -u master
+git init
+sudo git init
+sudo git commit -m "Initial commit"
+git remote add origin CSI_3660_Minecraft
+--global --add safe.directory /home/minecraftserver
+cd ..
+git push -u origin master
+git fetch origin
+sudo git fetch origin
+git remote -v
+git remote add origin https://github.com/JAudisho/CSI_3660_Minecraft.git
+sudo git remote add origin https://github.com/JAudisho/CSI_3660_Minecraft.git
+git push -u origin master
+git branch
+git checkout -b master
+sudo git checkout -b master
+git checkout master
+sudo git checkout master
+git branch -a
+git checkout main
+sudo git checkout main
+git branch -a
+git branch -M main
+git branch -a
+git checkout -b main
+sudo git checkout -b main
+sudo git checkout main
+git checkout -b main
+sudo git checkout -b main
+sudo git checkout main
+git add .
+sudo git add .
+sudo git commit -m "Commit message"
+sudo git push -u origin main
+sudo git push origin main
+sudo chown -R juliusaudisho:juliusaudisho /home/juliusaudisho
+sudo chown -R juliusaudisho:juliusaudisho /home
+git add .
+git commit -m "Initial commit"
+sudo git commit -m "Initial commit"
+git push -u origin main
+git push -u origin master:main
+git branch -a
+git checkout -b main
+git checkout main
+git add .
+git commit -m "Initial commit"
+ls -l
+cd ..
+cd .
+cd ..
+ls -l
+cd /home
+tar -czvf files.tar.gz directory1 directory2 file1 file2
+scp juliusaudisho@minecraftserver:/Downloads.tar.gz /Downloads
+sudo scp juliusaudisho@minecraftserver:/Downloads.tar.gz /Downloads
+sudo scp juliusaudisho@minecraftserver:/home.tar.gz /Downloads

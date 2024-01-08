@@ -1,3 +1,5 @@
 [user]
 	email = juliusaudisho@minecraftserver
 	name = JAudisho
+[safe]
+	directory = /home
