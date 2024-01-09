@@ -1,4 +1,4 @@
-Utilizing Google Cloud VM instances running Linux
+Utilizing Google Cloud VM instances running Linux for hosting a Minecraft server.
 
 Key features of our project:
 
