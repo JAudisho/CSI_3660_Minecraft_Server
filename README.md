@@ -1,4 +1,4 @@
-Utilizing Google Cloud VM instances running Linux 
+Utilizing Google Cloud VM instances running Linux
 
 Key features of our project:
 
